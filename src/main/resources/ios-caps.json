@@ -2,5 +2,8 @@
   "platformName": "iOS",
   "automationName": "XCUITest",
   "deviceName": "iPhone 13",
-  "app": "src/test/resources/TestApp.app"
+  "app": "/Users/krish.chakraborty/Projects/Appium_starterkit/src/test/resources/TestApp.app",
+  "includeSafariInWebviews": true,
+  "newCommandTimeout": 3600,
+  "connectHardwareKeyboard": true
 }
