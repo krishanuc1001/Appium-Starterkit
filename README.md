@@ -1,4 +1,4 @@
-# Welcome to Appium Starter-kit for Android and iOS
+# Appium Starter-kit for Android and iOS
 
 ## About
 
