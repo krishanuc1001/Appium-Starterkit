@@ -101,7 +101,7 @@ npm install -g appium-doctor
 appium-doctor
 ```
 
-![img_3.png](img_3.png)
+![img_3](https://github.com/krishanuc1001/Appium-starterkit/assets/40739038/3269c095-c2a4-4244-959e-2e15110392a8)
 
 For only Android
 
@@ -201,7 +201,7 @@ and then run,
 start-android-emulator
 ```
 
-![img_2.png](img_2.png)
+![img_2](https://github.com/krishanuc1001/Appium-starterkit/assets/40739038/1651cf36-c3ea-4cb7-bd9b-23c164b66d21)
 
 or
 
